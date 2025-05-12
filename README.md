@@ -6,4 +6,4 @@
 4. Piense en que otra forma se podria hacer?
 5. Haga responsive el diseno
 
-Considere el box model y los conceptos avanzados en las lecciones
+Considere el box model y los conceptos avanzados en las lecciones 

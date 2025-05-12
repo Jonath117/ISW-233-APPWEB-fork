@@ -1,0 +1,15 @@
+.nav {  
+    background-color: white;
+
+
+}   
+
+.nav__links {
+    list-style: none;
+
+}
+
+.nav__link {
+    padding: 10px;
+
+}
