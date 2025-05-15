@@ -13,6 +13,12 @@
 }
 
 .card__body {
+    display: flex;
+    
+    
+    
+    
+    
     
 
 }
@@ -23,7 +29,7 @@
     object-fit: cover;    /* Para que la imagen no se deforme */
     border-radius: 50%;   /* Hace que la imagen sea circular */
     display: block;
-    margin: 0 auto;
+    margin: left;
 }
 
 .card__body__content {
