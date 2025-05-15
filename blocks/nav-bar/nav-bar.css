@@ -1,15 +1,16 @@
 .nav {  
     background-color: white;
-
-
+    padding: 0;
 }   
 
 .nav__links {
     list-style: none;
+    display: inline-flex;
 
 }
 
 .nav__link {
-    padding: 10px;
-
+    color:black;
+    padding-right: 30px;
+    text-decoration: none;
 }
