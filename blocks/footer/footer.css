@@ -1,0 +1,44 @@
+.footer {
+    background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
+    position: relative;
+    margin-top: auto;
+}
+
+.footer__content {
+    color: white;
+
+}
+
+.footer__social {
+    padding: 15px 30px;
+
+}
+
+.footer__social-heading {
+    
+
+} 
+
+.footer__list {
+    padding: 0;
+
+}
+
+.footer__list-item {
+    list-style: none;
+
+}
+
+.footer__social-link {
+    color: white;
+    text-decoration: none;
+
+}
+
+.footer__copyright {
+    color: white;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+
+}
