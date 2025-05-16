@@ -41,7 +41,9 @@ function createCardComponent(title, body, image ){
 //createCardComponent('Hola', 'Hola soy un body');
 const card = createCardComponent('Fundamentals 1', 'Hola soy un body, ddnkjdsnfjdsnfsin sdjfndsiuncdsiucnds sdnfoidsncodsicn unoisadmosaidm oiad fdsf dsjfndsun odsjfniudsfndsuifbdsiuf sodjfnodsiufndsoifnddf kjf sdjfnosiudfnodsufnusn osdifndsufbsiubs asdsfdsf ssdfdsf dsfdsfdsf ssdfsd', 'images/Maxsucho pensativo.jpg');
 const card2 = createCardComponent('Fundamentals 2', 'Hola soy un body extremadamente largo, chau', 'images/Maxsucho pensativo.jpg');
+const card3 = createCardComponent('Fundamentals 2', 'Hola soy otro body extremadamente largo, chau', 'images/Maxsucho pensativo.jpg');
 
 // 4. Agrege este nuevo componente al container
 container.appendChild(card);
 container.appendChild(card2);
+container.appendChild(card3);
