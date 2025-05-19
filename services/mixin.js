@@ -9,7 +9,6 @@ export const observerMixin = {
     notify(){
         //separar por funcionalidades
         this.observers.forEach(obs => obs.update());
-
     }
 
 

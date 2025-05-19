@@ -33,6 +33,10 @@ export class TodoList {
         }
     }
     delete(TodoItem) {
+        const array = Array.from(this.#data);
+        const todoExist = array.filter ((t) => t.text == TodoItem.text).length > 1;
+        if(!todoExist)
+            throw new console.error("TodoItems no encontrado");
         this.#data.delete(TodoItem);
         
     }
