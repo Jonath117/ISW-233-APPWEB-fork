@@ -27,6 +27,14 @@ export const Router = {
         pageElement = document.createElement("h1");
         pageElement.textContent = "Element 1";
         break;
+      case "/element2":
+        pageElement = document.createElement("h1");
+        pageElement.textContent = "Element 2";
+        break;
+      case "/element3":
+        pageElement = document.createElement("h1");
+        pageElement.textContent = "Element 3";
+        break;
       default:
         break;
     }
